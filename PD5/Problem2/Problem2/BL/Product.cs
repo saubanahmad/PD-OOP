@@ -25,21 +25,7 @@ namespace Problem2.BL
             this.availableStockQuantity = availableStockQuantity;
             this.minimumStockThreshold = minimumStockThreshold;
         }
-        public float CalculateSalesTax()
-        {
-            if (Category.ToLower() == "grocery")
-                return Price * 0.10f;
-            else if (Category.ToLower() == "fruit")
-                return Price * 0.05f;
-            else
-                return Price * 0.15f;
-        }
-
-        public new string ToString()
-        {
-            return $"Name: {Name}, Category: {Category}, Price: {Price}, Stock: {StockQuantity}, Threshold: {Threshold}";
-        }
-
+      
 
     }
 }

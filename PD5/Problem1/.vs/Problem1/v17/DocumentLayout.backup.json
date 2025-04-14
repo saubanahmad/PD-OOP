@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\OOP\\PD\\PD5\\Problem1\\",
+  "WorkspaceRootPath": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|c:\\oop\\pd\\pd5\\problem1\\problem1\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|c:\\oop\\oop_pd\\pd5\\problem1\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|c:\\oop\\pd\\pd5\\problem1\\problem1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|c:\\oop\\pd\\pd5\\problem1\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|C:\\OOP\\OOP_PD\\PD5\\Problem1\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643EAC8B-A784-41AD-8E1B-E2C3CB44E865}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,150 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\Subject.cs",
+              "RelativeDocumentMoniker": "Problem1\\BL\\Subject.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\Subject.cs",
+              "RelativeToolTip": "Problem1\\BL\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:58:44.584Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "DegreeProgram.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
               "RelativeDocumentMoniker": "Problem1\\BL\\DegreeProgram.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
               "RelativeToolTip": "Problem1\\BL\\DegreeProgram.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T18:03:47.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T18:03:47.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ConsoleUtility.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\ConsoleUtility.cs",
               "RelativeDocumentMoniker": "Problem1\\UI\\ConsoleUtility.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\ConsoleUtility.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\ConsoleUtility.cs",
               "RelativeToolTip": "Problem1\\UI\\ConsoleUtility.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAmwCQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T15:43:45.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T15:43:45.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DegreeProgramUI.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\DegreeProgramUI.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\DegreeProgramUI.cs",
               "RelativeDocumentMoniker": "Problem1\\UI\\DegreeProgramUI.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\DegreeProgramUI.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\DegreeProgramUI.cs",
               "RelativeToolTip": "Problem1\\UI\\DegreeProgramUI.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAgwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:03:48.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T03:03:48.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "StudentUI.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
               "RelativeDocumentMoniker": "Problem1\\UI\\StudentUI.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
               "RelativeToolTip": "Problem1\\UI\\StudentUI.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:32:16.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubjectUI.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\SubjectUI.cs",
-              "RelativeDocumentMoniker": "Problem1\\UI\\SubjectUI.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\SubjectUI.cs",
-              "RelativeToolTip": "Problem1\\UI\\SubjectUI.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T02:59:13.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
-              "RelativeDocumentMoniker": "Problem1\\BL\\Student.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
-              "RelativeToolTip": "Problem1\\BL\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:26:52.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentDL.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\StudentDL.cs",
-              "RelativeDocumentMoniker": "Problem1\\DL\\StudentDL.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\StudentDL.cs",
-              "RelativeToolTip": "Problem1\\DL\\StudentDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:30:43.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T03:32:16.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "Problem1\\UI\\SubjectUI.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "Problem1\\UI\\SubjectUI.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:59:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "Problem1\\BL\\Student.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
+              "RelativeToolTip": "Problem1\\BL\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:26:52.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "Problem1\\DL\\StudentDL.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\StudentDL.cs",
+              "RelativeToolTip": "Problem1\\DL\\StudentDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:30:43.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\Program.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\Program.cs",
               "RelativeDocumentMoniker": "Problem1\\Program.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\Program.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\Program.cs",
               "RelativeToolTip": "Problem1\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAawCoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T02:54:59.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SubjectDL.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\SubjectDL.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\SubjectDL.cs",
               "RelativeDocumentMoniker": "Problem1\\DL\\SubjectDL.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\SubjectDL.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\SubjectDL.cs",
               "RelativeToolTip": "Problem1\\DL\\SubjectDL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T02:58:59.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T02:58:59.531Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DegreeProgramDL.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\DegreeProgramDL.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\DegreeProgramDL.cs",
               "RelativeDocumentMoniker": "Problem1\\DL\\DegreeProgramDL.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\DegreeProgramDL.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD5\\Problem1\\Problem1\\DL\\DegreeProgramDL.cs",
               "RelativeToolTip": "Problem1\\DL\\DegreeProgramDL.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:03:33.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Subject.cs",
-              "RelativeDocumentMoniker": "Problem1\\BL\\Subject.cs",
-              "ToolTip": "C:\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Subject.cs",
-              "RelativeToolTip": "Problem1\\BL\\Subject.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T02:58:44.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T03:03:33.659Z"
             }
           ]
         }

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP\\OOP_PD\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|c:\\oop\\oop_pd\\lms\\lmsv1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\ui\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\ui\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|C:\\OOP\\OOP_PD\\LMS\\lmsv1\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571E549-10EA-4A2C-B583-499CCA3FB958}|lmsV1\\lmsV1.csproj|solutionrelative:lmsv1\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\Program.cs",
+              "RelativeDocumentMoniker": "lmsV1\\Program.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\Program.cs*",
+              "RelativeToolTip": "lmsV1\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:38:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "lmsV1\\UI\\StudentUI.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\StudentUI.cs",
+              "RelativeToolTip": "lmsV1\\UI\\StudentUI.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:02:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "lmsV1\\BL\\Student.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\BL\\Student.cs",
+              "RelativeToolTip": "lmsV1\\BL\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:58:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "lmsV1\\DL\\StudentDL.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\DL\\StudentDL.cs",
+              "RelativeToolTip": "lmsV1\\DL\\StudentDL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:58:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\UserUI.cs",
+              "RelativeDocumentMoniker": "lmsV1\\UI\\UserUI.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\UserUI.cs",
+              "RelativeToolTip": "lmsV1\\UI\\UserUI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:57:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\DL\\UserDL.cs",
+              "RelativeDocumentMoniker": "lmsV1\\DL\\UserDL.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\DL\\UserDL.cs",
+              "RelativeToolTip": "lmsV1\\DL\\UserDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:57:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\BL\\User.cs",
+              "RelativeDocumentMoniker": "lmsV1\\BL\\User.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\BL\\User.cs",
+              "RelativeToolTip": "lmsV1\\BL\\User.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:55:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\Utilities.cs",
+              "RelativeDocumentMoniker": "lmsV1\\UI\\Utilities.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\LMS\\lmsV1\\UI\\Utilities.cs",
+              "RelativeToolTip": "lmsV1\\UI\\Utilities.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:38:42.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

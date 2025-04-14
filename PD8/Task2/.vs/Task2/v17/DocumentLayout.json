@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP\\OOP_PD\\PD8\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|c:\\oop\\oop_pd\\pd8\\task2\\task2\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|c:\\oop\\oop_pd\\pd8\\task2\\task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|c:\\oop\\oop_pd\\pd8\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A719C5-2FC5-4B5B-A0C0-0A217C938429}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "Task2\\BL\\Deck.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\BL\\Deck.cs",
+              "RelativeToolTip": "Task2\\BL\\Deck.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:33:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "Task2\\BL\\Card.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\BL\\Card.cs",
+              "RelativeToolTip": "Task2\\BL\\Card.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:32:18.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\OOP\\OOP_PD\\PD8\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:16:40.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
